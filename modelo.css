@@ -36,7 +36,7 @@ body {
     border: 5px solid white; /* Adiciona uma borda branca */
 }
 .conteudo {
-    background: rgb(241, 9, 9); /* Define cor de fundo */
+    background: rgb(161, 9, 9); /* Define cor de fundo */
     flex: 1; /* Ocupa o espaço restante */
     display: flex; /* Usa flexbox para alinhamento interno */
     align-items: center; /* Alinha itens verticalmente */
